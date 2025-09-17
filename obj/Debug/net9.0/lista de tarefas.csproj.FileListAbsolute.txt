@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\C#\lista de tarefas\bin\Debug\net9.0\lista de tarefas.exe
+C:\Users\admin\Downloads\C#\lista de tarefas\bin\Debug\net9.0\lista de tarefas.deps.json
+C:\Users\admin\Downloads\C#\lista de tarefas\bin\Debug\net9.0\lista de tarefas.runtimeconfig.json
+C:\Users\admin\Downloads\C#\lista de tarefas\bin\Debug\net9.0\lista de tarefas.dll
+C:\Users\admin\Downloads\C#\lista de tarefas\bin\Debug\net9.0\lista de tarefas.pdb
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.AssemblyInfo.cs
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.sourcelink.json
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.dll
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\refint\lista de tarefas.dll
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.pdb
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\lista de tarefas.genruntimeconfig.cache
+C:\Users\admin\Downloads\C#\lista de tarefas\obj\Debug\net9.0\ref\lista de tarefas.dll
