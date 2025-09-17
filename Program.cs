@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-// filepath: c:\Users\admin\Downloads\C#\testes\Program.cs
 
 namespace testes
 {
