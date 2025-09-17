@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace lista de tarefas
+namespace lista_de_tarefas
 {
     class Program
     {
