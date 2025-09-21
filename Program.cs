@@ -7,7 +7,7 @@ namespace lista_de_tarefas
     {
         static void Main(string[] args)
         {
-            string divisor = "------------------------";
+            string divisor = "----------------------------------------";
 
             List<string> tarefas = new List<string>();
 
