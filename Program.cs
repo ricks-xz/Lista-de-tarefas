@@ -24,7 +24,7 @@ namespace lista_de_tarefas
 
             Console.WriteLine(divisor);
 
-            Console.WriteLine("\n==== MINHA LISTA DE TAREFAS ATUALIZADA ====");
+            Console.WriteLine("\n=== MINHA LISTA DE TAREFAS ATUALIZADA ===");
 
             tarefas.Insert(1, "- Praticar logica de programação");
             tarefas.Insert(4, "- Revisar conceitos");
